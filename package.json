@@ -1,7 +1,7 @@
 {
   "name": "@jmshal/bugsnag-js-plugin-azure-functions",
   "description": "@bugsnag/js plugin for Azure Function apps",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "azure-functions.js",
   "files": [
     "azure-functions.js"
