@@ -1,3 +1,4 @@
+const { URL } = require('url');
 const createReportFromErr = require('@bugsnag/core/lib/report-from-error');
 const clone = require('@bugsnag/core/lib/clone-client');
 
